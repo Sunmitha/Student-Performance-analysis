@@ -26,7 +26,7 @@ To uncover patterns in student data that can help educators take proactive steps
 ## How to Run  
 1. Open SPSS Modeler  
 2. Load the provided dataset  
-3. Import the stream file (.str)  
+3. Import the stream file (.xlxs)  
 4. Run each node sequentially  
 5. View results and model performance metrics
 
