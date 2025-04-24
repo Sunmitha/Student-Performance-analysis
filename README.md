@@ -1,2 +1,45 @@
-# Student-Performance-analysis
-Student Performance Analysis using SPSS Modeler identifies key factors affecting academic outcomes. It involves data cleaning, model building (C&amp;RT, Regression), and tuning to enhance accuracy. The insights help in targeted interventions to improve student success.
+Student Performance Analysis – SPSS Modeler
+Overview
+This project analyzes academic data to identify key factors affecting student performance using IBM SPSS Modeler. It aims to build predictive models and derive actionable insights for educational improvement.
+
+Features
+Data preprocessing and cleaning
+
+Feature selection for relevant academic variables
+
+Predictive modeling using C&RT and Regression
+
+Model tuning to reduce overfitting
+
+Insight generation for targeted interventions
+
+Tools Used
+IBM SPSS Modeler
+
+Excel / CSV for data input
+
+Visualization tools within SPSS
+
+Objective
+To uncover patterns in student data that can help educators take proactive steps to enhance learning outcomes.
+
+Results
+Identified key drivers like study hours, attendance, and past scores
+
+Improved prediction accuracy via parameter tuning
+
+Delivered strategies for identifying at-risk students
+
+How to Run
+Open SPSS Modeler
+
+Load the provided dataset
+
+Import the stream file (.str)
+
+Run each node sequentially
+
+View results and model performance metrics
+
+Dataset
+The dataset includes fields such as student ID, branch, study hours, attendance, and marks. (Note: Use your own dataset or ensure anonymization.)
