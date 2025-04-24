@@ -33,5 +33,3 @@ To uncover patterns in student data that can help educators take proactive steps
 ## Dataset  
 The dataset includes fields such as student ID, branch, study hours, attendance, and marks. (Note: Use your own dataset or ensure anonymization.)
 
-## License  
-This project is open for educational and research purposes. Attribution is appreciated.
